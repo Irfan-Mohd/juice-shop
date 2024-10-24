@@ -1,4 +1,4 @@
-# ![Juice Shop Logo](https://raw.githubusercontent.com/bkimminich/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_100px.png) OWASP Juice Shop
+# ![Juice Shop Logo](https://raw.githubusercontent.com/bkimminich/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_100px.png) OWASP Juice Shop test
 
 [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://owasp.org/projects/#sec-flagships)
 [![GitHub release](https://img.shields.io/github/release/bkimminich/juice-shop.svg)](https://github.com/bkimminich/juice-shop/releases/latest)
@@ -97,7 +97,7 @@ overview please visit the official project page:
 ### Packaged Distributions
 
 [![GitHub release](https://img.shields.io/github/downloads/bkimminich/juice-shop/total.svg)](https://github.com/bkimminich/juice-shop/releases/latest)
-[![SourceForge](https://img.shields.io/sourceforge/dm/juice-shop?label=sourceforge%20downloads)](https://sourceforge.net/projects/juice-shop/)
+[![SourceForge](https://img.shields.io/sourceforge/dm/juice-shop?label=sourceforge%20downloads)](https://sourcehttps://github.com/Irfan-Mohd/juice-shop.gitforge.net/projects/juice-shop/)
 [![SourceForge](https://img.shields.io/sourceforge/dt/juice-shop?label=sourceforge%20downloads)](https://sourceforge.net/projects/juice-shop/)
 
 1. Install a 64bit [node.js](#nodejs-version-compatibility) on your
@@ -237,7 +237,7 @@ Please make sure you stay up to date with your chosen version.
 [![Gitter](http://img.shields.io/badge/gitter-join%20chat-1dce73.svg)](https://gitter.im/bkimminich/juice-shop)
 
 If you need help with the application setup please check our
-[our existing _Troubleshooting_](https://pwning.owasp-juice.shop/appendix/troubleshooting.html)
+[our existing _Troubleshooting_](https:https://github.com/Irfan-Mohd/juice-shop.git//pwning.owasp-juice.shop/appendix/troubleshooting.html)
 guide. If this does not solve your issue please post your specific
 problem or question in the
 [Gitter Chat](https://gitter.im/bkimminich/juice-shop) where community
@@ -351,3 +351,4 @@ under the terms of the [MIT license](LICENSE). OWASP Juice Shop and any
 contributions are Copyright © by Bjoern Kimminich 2014-2021.
 
 ![Juice Shop Logo](https://raw.githubusercontent.com/bkimminich/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_400px.png)
+

@@ -1,5 +1,5 @@
 node {
-    stage('Git SCM') { # Check out the source code from the repository defined in Jenkins.
+    stage('Git SCM') {
         checkout scm
     }
     
